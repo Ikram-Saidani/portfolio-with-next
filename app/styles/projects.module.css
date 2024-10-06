@@ -1,0 +1,25 @@
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.projects div{
+    width: 600px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.projects img{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+}

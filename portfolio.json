@@ -1,0 +1,94 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "FIFA player cards",
+      "image": "https://www.fifaultimateteam.it/en/wp-content/uploads/2022/07/Lewandowski-scaled.jpg",
+      "githubUrl": "https://github.com/IkramSaidani/FIFA-player-cards-react"
+    },
+    {
+      "id": 2,
+      "title": "TODO with react reducer",
+      "image": "https://raw.githubusercontent.com/nTamura/react-todo/master/public/screen.png",
+      "githubUrl": "https://github.com/IkramSaidani/reducer-todo-react"
+    },
+    {
+      "id": 3,
+      "title": "TODO with react redux",
+      "image": "https://i.ytimg.com/vi/fiesH6WU63I/maxresdefault.jpg",
+      "githubUrl": "https://github.com/IkramSaidani/redux-todo-checkpoint"
+    },
+    {
+      "id": 4,
+      "title": "movies with hooks",
+      "image": "https://i.ytimg.com/vi/Q0J4395MKkc/maxresdefault.jpg",
+      "githubUrl": "https://github.com/IkramSaidani/movies-with-hooks"
+    },
+    {
+      "id": 5,
+      "title": "weather app",
+      "image": "https://i.ytimg.com/vi/uZGhTYZ6eys/maxresdefault.jpg",
+      "githubUrl": "https://user-images.githubusercontent.com/63330165/144626335-318e68dc-db63-499c-9811-2acf108e9b22.png"
+    },
+    {
+      "id": 6,
+      "title": "mongoose",
+      "image": "https://miro.medium.com/v2/resize:fit:1050/1*acfAKaDI7uv5GyFnJmiPhA.png",
+      "githubUrl": "https://github.com/IkramSaidani/mongoose"
+    },
+    {
+      "id": 7,
+      "title": "express routing",
+      "image": "https://i.ytimg.com/vi/_2PlqCmUYsA/maxresdefault.jpg",
+      "githubUrl": "https://github.com/IkramSaidani/Express-Routing-Checkpoint"
+    },
+    {
+      "id": 8,
+      "title": "shopping cart",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.qCYtMJjoin3SlYeuJdgUdgHaFj&pid=Api&P=0&h=180",
+      "githubUrl": "https://github.com/IkramSaidani/shopping-cart"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "title": "JavaScript",
+      "description": "Proficiency in ES6+ features-Understanding of asynchronous programming-DOM manipulation and event handling-Error handling and debugging"
+    },
+    {
+      "id": 2,
+      "title": "html / css",
+      "description": "Semantic HTML5 structure-CSS Flexbox and Grid for responsive design-CSS-in-JS libraries (styled-components, emotion)-Mobile-first design and media queries"
+    },
+    {
+      "id": 3,
+      "title": "React",
+      "description": "Component-based architecture (functional & class components)-State management (useState, useReducer)-Hooks (useEffect, useContext, custom hooks)-Props handling and component communication-React Router for client-side routing-Redux or Context API for global state management"
+    },
+    {
+      "id": 4,
+      "title": "Express.js and Node.js",
+      "description": "Building RESTful APIs-Middleware creation and management-Authentication and authorization (JWT, OAuth)-Handling file uploads and downloads-Error handling and validation-WebSockets for real-time communication-Using templating engines like EJS, Handlebars"
+    },
+    {
+      "id": 5,
+      "title": "MongoDB and Mongoose",
+      "description": "Understanding of NoSQL databases and document-based data modeling-CRUD operations with Mongoose-Schema design and validation-Aggregation pipelines and advanced queries-Indexing and optimization for performance-Database security (access control, user roles)"
+    },
+    {
+      "id": 6,
+      "title": "General Development Skills",
+      "description": "Version control with Git and GitHub/GitLab-Debugging and testing (Jest, Mocha, Chai)-Familiarity with APIs and third-party services (REST, GraphQL)-Deployment (Heroku, Netlify, Vercel, or Docker)-Code optimization and best practices for performance-CI/CD pipelines and automation tools (GitHub Actions, Jenkins)"
+    }
+  ],
+  "contact": [
+    {
+      "id": "a3ae",
+      "firstname": "ikram",
+      "lastname": "saidani",
+      "email": "saidaniikram26@gmail.com",
+      "phone": "22222222",
+      "message": "hello"
+    }
+  ]
+}
